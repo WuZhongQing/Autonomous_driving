@@ -26,6 +26,6 @@ MOTR时序展开结构：
 
 ### 2.预测阶段
 
-  预测阶段叫做prediction，该阶段是自动驾驶开始变的难起来的阶段。设想一下，如果你需要预测一辆车、一个人的运动方向，你会根据哪些内容来预测呢，应该要根据如下一下交互1.智能体与智能体之间。2.智能体与地图之间。3.智能体与目的地之间。
+  预测阶段叫做prediction，该阶段是自动驾驶开始变的难起来的阶段。设想一下，如果你需要预测一辆车、一个人的运动方向，你会根据哪些内容来预测呢，应该要根据如下一下交互1.智能体与智能体之间。2.智能体与地图之间。3.智能体与目的地之间。UniAD的预测模块叫做MotionFormer，来自论文[Motion Transformer with Global Intention Localization and Local Movement Refinement](https://arxiv.org/pdf/2209.13508)。
   
 
